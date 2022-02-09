@@ -12,7 +12,7 @@ sbi_proj
 
 Tables:
 
-1. account_balance:
+1. account_balance: \n
 +------------+---------+------+-----+---------+----------------+
 | Field      | Type    | Null | Key | Default | Extra          |
 +------------+---------+------+-----+---------+----------------+
