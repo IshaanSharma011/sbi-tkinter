@@ -15,21 +15,13 @@ Tables:
 1. account_balance:
 
 +------------+---------+------+-----+---------+----------------+
-
 | Field      | Type    | Null | Key | Default | Extra          |
-
 +------------+---------+------+-----+---------+----------------+
-
 | trans_num  | int(11) | NO   | PRI | NULL    | auto_increment |
-
 | cust_id    | int(11) | NO   |     | NULL    |                |
-
 | deposit    | float   | YES  |     | NULL    |                |
-
 | withdrawal | float   | YES  |     | NULL    |                |
-
 | balance    | float   | YES  |     | NULL    |                |
-
 +------------+---------+------+-----+---------+----------------+
 
 2. account_deposits:
