@@ -7,6 +7,8 @@ The GUI also has SQL server connected for storing data.
 
 You'll have to create a database with following tables:
 
+View the following content in source blob format for better understanding
+
 Database name:
 sbi_proj
 
